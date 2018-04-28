@@ -26,7 +26,9 @@ War Eagle！
 
 微信公众号：AuburnSSA
 
-投稿请联系：admin@aussa.org
+投稿邮箱：admin@aussa.org
+
+微信：AuburnSSA\_Connect
 
 ## 更新历史
 
