@@ -5,7 +5,7 @@
 * [行前准备](hang-qian-zhun-bei.md)
 * [入境美国](ru-jing-mei-guo.md)
 * [报道须知](untitled.md)
-* [衣食住行](yi-shi-zhu-hang.md)
+* [衣食住行](yi-shi-zhu-hang.md)
 * [校园生活](xiao-yuan-sheng-huo.md)
 * [学习园地](untitled-1.md)
 * [其他信息](qi-ta-xin-xi.md)
