@@ -1,6 +1,7 @@
 # Table of contents
 
 * Introduction
+* Introduction
 * [奥本大学新生手册](ao-ben-da-xue-xin-sheng-shou-ce.md)
 * [学校简介](xue-xiao-jian-jie.md)
 * 行前准备
