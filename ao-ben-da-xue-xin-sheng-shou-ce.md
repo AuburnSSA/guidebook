@@ -1,10 +1,6 @@
 # 奥本大学新生手册
 
-## 卷首语
-
-```text
-[返回 AU Forum](http://bbs.aussa.org)
-```
+## 卷首语                                                                 [\[AU Forum\]](http://bbs.aussa.org/forum.php)
 
 奥本大学的同学和朋友们大家好！
 

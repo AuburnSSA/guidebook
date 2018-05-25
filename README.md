@@ -1,8 +1,10 @@
-# 奥本大学新生手册
+# Introduction
 
-## 卷首语                                                                  
+## 卷首语
 
-                                                                                                                   [**   返回 AU Forum**](http://bbs.aussa.org)
+```text
+                                                                                                               [**   返回 AU Forum**](http://bbs.aussa.org)
+```
 
 奥本大学的同学和朋友们大家好！
 
@@ -27,3 +29,4 @@ War Eagle！
 ## 更新历史
 
 2018.04.18 正式上线
+
