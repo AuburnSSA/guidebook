@@ -1,6 +1,6 @@
 # 奥本大学新生手册
 
-## 卷首语                                                                                                           
+## 卷首语
 
 ```text
 [返回 AU Forum](http://bbs.aussa.org)
