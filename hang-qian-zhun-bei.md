@@ -26,7 +26,7 @@
 
 ### **住宿**
 
-**详见住房篇**  
+**详见**[**住房篇**](https://guide.aussa.org/yi-shi-zhu-hang)  
 
 
 ## 
